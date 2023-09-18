@@ -1,0 +1,1 @@
+Final Build Tested on 5/4 - Everything looks good and polished, no bugs could be found. Controls and animations feel fluid, and attacks work as they are supposed to. All scenes and tutorials are in. Ready for final build to be created.
